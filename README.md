@@ -22,7 +22,7 @@
 <a href="https://twitter.com/tirthofficials" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tirthofficials" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tirthofficials" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tirthofficials" height="30" width="40" /></a>
 <a href="https://instagram.com/tirthofficials" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tirthofficials" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/toxic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="toxic" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/toxicartist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="toxicartist" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/tirthofficial" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tirthofficial" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/tirth_p3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tirth_p3" height="30" width="40" /></a>
 </p>
