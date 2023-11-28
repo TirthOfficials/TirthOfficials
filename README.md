@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tirthofficials&label=Profile%20views&color=0e75b6&style=flat" alt="tirthofficials" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tirthofficials" alt="tirthofficials" /></a> </p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?TirthOfficialsryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 - 🔭 I’m currently working on **Social Media App using MERN Stack**
 
 - 👯 I’m looking to collaborate on **MERN Stack projects**
